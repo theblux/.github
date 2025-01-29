@@ -1,2 +1,0 @@
-# WELCOME
-to the blux
